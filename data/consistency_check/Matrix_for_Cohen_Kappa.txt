@@ -1,4 +1,4 @@
-"""These are the Kappa confusion matrices for consistency testing of annotated data."""
+"""Below are the Kappa confusion matrices for consistency check of annotated data."""
 
 #Cohen's Kappa Matrix-Intra-Annotator Agreement
 #Intra-Annotator_Annotator_1
