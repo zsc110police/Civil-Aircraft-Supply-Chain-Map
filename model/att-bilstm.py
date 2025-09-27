@@ -31,7 +31,7 @@ class BiLSTM(nn.Module):
             hidden_size=self.hidden_size,
             num_layers=self.layers_num,
             batch_first=True,
-            dropout=0,
+            dropout=0.1,
             bidirectional=True,
         )
 
