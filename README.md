@@ -8,7 +8,7 @@ This repository provides with supplementary materials, including:
 - Annotation guideline
 - Annotations of entities and relations
 - Annotations of triplets
-- Annotation data 200 samples
+- Annotation data samples
 - Inter-annotators consistency check samples
 - LLMs exact consistency and high consistency samples
 - Kappa confusion matrices
