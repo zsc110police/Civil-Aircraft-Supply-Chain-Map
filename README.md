@@ -12,4 +12,4 @@ This repository provides with supplementary materials, including:
 - Inter-annotators consistency check samples
 - LLMs exact consistency and high consistency samples
 - Kappa confusion matrices
-- Codes for models, including attention-bilstm, bert-casrel, bert-casrel with constrained triplets
+- Codes for models, including attention-bilstm, bert-casrel
